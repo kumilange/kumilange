@@ -1,5 +1,5 @@
 # Hi, I'm Kumiko 👋  
-_🧱 Frontend Engineer & Architect | 🎨 Data Visualization | 🐾 Dog Mom_
+_🧱 Frontend Engineer & Architect | 🎨 Data Visualization Enthusiast | 🐾 Dog Mom (even though my profile pic is a cat)_
 
 ---
 
@@ -7,7 +7,7 @@ _🧱 Frontend Engineer & Architect | 🎨 Data Visualization | 🐾 Dog Mom_
 
 I'm a Colorado-based software engineer with a passion for frontend architecture design with a focus on performance, scalability, and maintainability. I love building tools that help people explore the world around them — both digitally and physically.
 
-- 💡 Interests: Data visualization, WebGL
+- 💡 Interests: Frontend Architecture, Data visualization, WebGL
 - 🌱 Currently learning: AI coding, AI integration   
 
 ---
