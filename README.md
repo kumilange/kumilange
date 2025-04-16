@@ -1,9 +1,9 @@
 # Hi, I'm Kumi 👋  
-_🧱 Frontend Engineer & Architect | 🎨 Data Visualization Enthusiast | 🐾 Dog Pawrent (even though my profile pic is a cat)_
+_🧱 Frontend Engineer & Architect | 📊 Data Visualization Enthusiast | 🐾 Dog Pawrent (even though my profile pic is a cat)_
 
 ---
 
-### 🧭 About Me
+### 💬 About Me
 
 I'm a Colorado-based software engineer with a passion for frontend architecture design with a focus on performance, scalability, and maintainability. I love building products and tools that provide users with intuitive, seamless experiences.
 
@@ -19,7 +19,7 @@ A full-stack web app to help people find apartments in Colorado based on proximi
 Built with `React`, `FastAPI`, and `PostGIS`, and containerized using `Docker`.
 
 #### 🌊 [Flood Archive Visualizer](https://github.com/kumilange/flood-archive-vis-svelte)  
-An experimental map viewer to visualize NOAA's historical flood events.  
+A map visualization of the world's historical flood events.  
 Built with `Svelte`, `MapLibre GL`, `Deck.gl`, and GeoJSON data.
 
 #### 🧩 OSS Contributions  
@@ -28,7 +28,7 @@ Contributed to [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js/pulls
 ---
 
 ### 🛠 Tech Stack
-#### 🧑‍💻 Frontend
+#### 🎨 Frontend
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-2965F1?style=flat&logo=css3&logoColor=white)
