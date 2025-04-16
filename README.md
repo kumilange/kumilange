@@ -5,7 +5,7 @@ _🧱 Frontend Engineer & Architect | 🎨 Data Visualization Enthusiast | 🐾 
 
 ### 🧭 About Me
 
-I'm a Colorado-based software engineer with a passion for frontend architecture design with a focus on performance, scalability, and maintainability. I love building tools that help people explore the world around them — both digitally and physically.
+I'm a Colorado-based software engineer with a passion for frontend architecture design with a focus on performance, scalability, and maintainability. I love building products and tools that provide users with intuitive, seamless experiences.
 
 - 💡 Interests: Frontend Architecture, Data visualization, WebGL
 - 🌱 Currently learning: AI coding, AI integration   
