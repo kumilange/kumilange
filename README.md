@@ -7,7 +7,7 @@ _🧱 Frontend Engineer & Architect | 🎨 Data Visualization | 🐾 Dog Mom_
 
 I'm a Colorado-based software engineer with a passion for frontend architecture design with a focus on performance, scalability, and maintainability. I love building tools that help people explore the world around them — both digitally and physically.
 
-- 💡 Interests: Data visualization, WebGL, geospatial data handling
+- 💡 Interests: Data visualization, WebGL
 - 🌱 Currently learning: AI coding, AI integration   
 
 ---
@@ -28,7 +28,7 @@ Contributed to [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js/pulls
 ---
 
 ### 🛠 Tech Stack
-#### 🧑‍💻 Frontend:
+#### 🧑‍💻 Frontend
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-2965F1?style=flat&logo=css3&logoColor=white)
@@ -42,7 +42,7 @@ Contributed to [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js/pulls
 ![ShadcnUI](https://img.shields.io/badge/-ShadcnUI-111827?style=flat&logo=shadcn&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-#### 🔧 Backend & Dev Tools:
+#### 🔧 Backend & Dev Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -53,7 +53,7 @@ Contributed to [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js/pulls
 ![Monorepo (Nx)](https://img.shields.io/badge/-Nx-143055?style=flat&logo=nx&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-#### 🧪 Testing:
+#### 🧪 Testing
 
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-5F7B93?style=flat&logo=vitest&logoColor=white)
@@ -61,7 +61,7 @@ Contributed to [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js/pulls
 ![BrowserStack](https://img.shields.io/badge/-BrowserStack-FB542B?style=flat&logo=browserstack&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-3776AB?style=flat&logo=python&logoColor=white)
 
-#### 🌍 Geospatial & Mapping:
+#### 🌍 Geospatial & Mapping
 
 ![MapLibre GL JS](https://img.shields.io/badge/-MapLibre%20GL%20JS-0A2D2D?style=flat&logo=maplibre&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/-Mapbox-00A9B7?style=flat&logo=mapbox&logoColor=white)
@@ -73,7 +73,7 @@ Contributed to [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js/pulls
 ![OpenStreetMap](https://img.shields.io/badge/-OpenStreetMap-7EBC6F?style=flat&logo=openstreetmap&logoColor=white)
 ![OSMnx](https://img.shields.io/badge/-OSMnx-1F2E45?style=flat&logo=python&logoColor=white)
 
-#### ☁️ Cloud & Infrastructure:
+#### ☁️ Cloud & Infrastructure
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
