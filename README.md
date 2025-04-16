@@ -23,9 +23,7 @@ An experimental map viewer to visualize NOAA's historical flood events.
 Built with Svelte, MapLibre GL, Deck.gl, and GeoJSON data.
 
 #### 🧩 OSS Contributions  
-- Contributed to [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js) and [Mapbox GL JS]([https://github.com/maplibre/maplibre-gl-js](https://github.com/mapbox/mapbox-gl-js)) – fixes and improvements for geospatial rendering  
-- Explored Mapbox GL JS for earlier projects and UI prototyping  
-- Passionate about open-source mapping tools and contributing back to the community
+Contributed to [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js/pulls?q=is%3Apr++author%3Akumilange) and [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js/pulls?q=is%3Apr++author%3Akumilange+) – fixes and improvements for geospatial rendering  
 
 ---
 
