@@ -1,5 +1,5 @@
-# Hi, I'm Kumiko 👋  
-_🧱 Frontend Engineer & Architect | 🎨 Data Visualization Enthusiast | 🐾 Dog Mom (even though my profile pic is a cat)_
+# Hi, I'm Kumi 👋  
+_🧱 Frontend Engineer & Architect | 🎨 Data Visualization Enthusiast | 🐾 Dog Pawrent (even though my profile pic is a cat)_
 
 ---
 
