@@ -16,11 +16,11 @@ I'm a Colorado-based software engineer with a passion for frontend architecture 
 
 #### 🏡 [Walkernest](https://github.com/kumilange/walkernest)  
 A full-stack web app to help people find apartments in Colorado based on proximity to parks, supermarkets, and cafes.  
-Built with React, FastAPI, and PostGIS, and containerized using Docker.
+Built with `React`, `FastAPI`, and `PostGIS`, and containerized using `Docker`.
 
 #### 🌊 [Flood Archive Visualizer](https://github.com/kumilange/flood-archive-vis-svelte)  
 An experimental map viewer to visualize NOAA's historical flood events.  
-Built with Svelte, MapLibre GL, Deck.gl, and GeoJSON data.
+Built with `Svelte`, `MapLibre GL`, `Deck.gl`, and GeoJSON data.
 
 #### 🧩 OSS Contributions  
 Contributed to [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js/pulls?q=is%3Apr++author%3Akumilange) and [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js/pulls?q=is%3Apr++author%3Akumilange+) – fixes and improvements for geospatial rendering  
