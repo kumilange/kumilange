@@ -1,11 +1,11 @@
 # Hi, I'm Kumi 👋  
-_🧱 Frontend Engineer & Architect | 📊 Data Visualization Enthusiast | 🐾 Dog Pawrent (even though my profile pic is a cat)_
+_💻 Software Engineer experienced in Frontend | 🐾 Dog Pawrent (even though my profile pic is a cat)_
 
 ---
 
 ### 💬 About Me
 
-I'm a Colorado-based software engineer with a passion for frontend architecture design with a focus on performance, scalability, and maintainability. I love building products and tools that provide users with intuitive, seamless experiences.
+I'm a Colorado-based full-stack software engineer with a passion for frontend architecture design with a focus on performance, scalability, and maintainability. I love building products and tools that provide users with intuitive, seamless experiences.
 
 - 💡 Interests: Frontend Architecture, Data visualization, WebGL
 - 🌱 Currently learning: AI coding, AI integration   
@@ -15,7 +15,7 @@ I'm a Colorado-based software engineer with a passion for frontend architecture 
 ### 🌟 Portfolio
 
 #### 🏡 [Walkernest](https://github.com/kumilange/walkernest)  
-A full-stack web app to help people find apartments in Colorado based on proximity to parks, supermarkets, and cafes.  
+A `full-stack` web app to help people find apartments in Colorado based on proximity to parks, supermarkets, and cafes.  
 Built with `React`, `FastAPI`, and `PostGIS`, and containerized using `Docker`.
 
 #### 🌊 [Flood Archive Visualizer](https://github.com/kumilange/flood-archive-vis-svelte)  
