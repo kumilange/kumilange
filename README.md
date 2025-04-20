@@ -7,7 +7,7 @@ _💻 Software Engineer experienced in Frontend | 🐾 Dog Pawrent (even though 
 
 I'm a Colorado-based software engineer with a passion for frontend architecture design, focusing on performance, scalability, and maintainability. I love building products and tools that provide users with intuitive, seamless experiences.
 
-- 💡 Interests: Frontend Architecture, Data visualization, WebGL
+- 💡 Interests: Frontend architecture, Data visualization, WebGL
 - 🌱 Currently learning: AI coding, AI integration   
 
 ---
