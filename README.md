@@ -1,7 +1,4 @@
 # Hi, I'm Kumi 👋  
-_💻 Software Engineer experienced in Frontend | 🐾 Dog Pawrent (even though my profile pic is a cat)_
-
----
 
 ### 💬 About Me
 
