@@ -4,9 +4,6 @@
 
 I'm a Colorado-based software engineer with a passion for frontend architecture design, focusing on performance, scalability, and maintainability. I love building products and tools that provide users with intuitive, seamless experiences.
 
-- 💡 Interests: Frontend architecture, Data visualization, WebGL
-- 🌱 Currently learning: AI coding, AI integration   
-
 ---
 
 ### 🌟 Portfolio
