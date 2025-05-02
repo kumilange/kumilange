@@ -2,7 +2,7 @@
 
 ### 💬 About Me
 
-I'm a Colorado-based software engineer with a passion for frontend architecture design, focusing on performance, scalability, and maintainability. I love building products and tools that provide users with intuitive, seamless experiences.
+I'm a Colorado-based software engineer experienced in space, fintech, and design. `Detail-oriented` and skilled in `React`, I specialize in building `high-performance` UIs for large datasets such as `geospatial` data. I'm passionate about creating products that drive `positive social impact`.
 
 ---
 
