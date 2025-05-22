@@ -2,7 +2,7 @@
 
 ### 💬 About Me
 
-I'm a Colorado-based software engineer experienced in space, fintech, and design. I am `detail-oriented` and specialize in building high-performance UIs for large datasets such as `geospatial data`. I'm passionate about creating products that drive `positive social impact`.
+I'm a Colorado-based software engineer experienced in space, fintech, and design. I am detail-oriented and specialize in building high-performance UIs for large datasets such as geospatial data. I'm passionate about creating products that drive positive social impact.
 
 ---
 
