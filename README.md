@@ -2,7 +2,7 @@
 
 ### 💬 About Me
 
-I'm a Colorado-based software engineer experienced in space, fintech, and design. I am detail-oriented and specialize in building high-performance UIs for large datasets such as geospatial data. I'm passionate about creating products that drive positive social impact.
+I'm a Colorado-based software engineer experienced in space, fintech, and design. I enjoy tackling complex problems and am driven to build solutions that create real social impact. I bring curiosity, clarity, and care to every project.
 
 ---
 
@@ -11,10 +11,6 @@ I'm a Colorado-based software engineer experienced in space, fintech, and design
 #### 🏡 [Walkernest](https://github.com/kumilange/walkernest)  
 A `full-stack` web app to help people find apartments in Colorado based on proximity to parks, supermarkets, and cafes.  
 Built with `React`, `FastAPI`, and `PostGIS`, and containerized using `Docker`.
-
-#### 🌊 [Flood Archive Visualizer](https://github.com/kumilange/flood-archive-vis-svelte)  
-A map visualization of the world's historical flood events.  
-Built with `Svelte`, `MapLibre GL`, `Deck.gl`, and GeoJSON data.
 
 #### 🧩 OSS Contributions  
 Contributed to [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js/pulls?q=is%3Apr++author%3Akumilange) and [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js/pulls?q=is%3Apr++author%3Akumilange+) – fixes and improvements for geospatial rendering  
