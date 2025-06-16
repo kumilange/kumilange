@@ -50,6 +50,7 @@ Contributed to [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js/pulls
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-5F7B93?style=flat&logo=vitest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
 ![BrowserStack](https://img.shields.io/badge/-BrowserStack-FB542B?style=flat&logo=browserstack&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-3776AB?style=flat&logo=python&logoColor=white)
 
